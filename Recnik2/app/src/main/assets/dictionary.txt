@@ -1,0 +1,16 @@
+morning, утро
+hello, здраво
+trousers, пантолони
+father, татко
+desk, маса
+chair, столица
+book, книга
+water, вода
+school, училиште
+friend, пријател
+apple, јаболко
+window, прозорец
+bread, леб
+mountain, планина
+street, улица
+flower, цвет
